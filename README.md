@@ -1,7 +1,7 @@
 # React + Vite
 React Bootcamp week 2 project 1
 It used to Json data from https://www.themealdb.com/api/json/v1/1/search.php?f=b
-It used to Icon from React Icon r87https://react-icons.github.io/react-icons/
+It used to Icon from React Icon https://react-icons.github.io/react-icons/
 It deployed to Netlify https://remarkable-monstera-65d37d.netlify.app/
 It used to Video Youtube.com
 
