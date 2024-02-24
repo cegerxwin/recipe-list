@@ -1,0 +1,50 @@
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.btnLike {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  font-size: 0.8rem;
+  background-color: #f9f9f9;
+  color: red;
+  padding: 6px 15px;
+  margin: 0 5px;
+}
+
+.btnDisLike {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  font-size: 0.8rem;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  padding: 6px 15px;
+  margin: 0 5px;
+}
+
+.like-active {
+  background-color: #ff0063;
+  color: white;
+}
+
+.dislike-active {
+  background-color: #394350 !important;
+  color: white;
+}
+
+.recipe-FcLike {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.count {
+  margin-left: 5px;
+}

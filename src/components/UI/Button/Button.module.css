@@ -1,0 +1,10 @@
+.recipeModalButton {
+  background-color: deeppink;
+  color: white;
+}
+
+.recipeModalButton:hover {
+  background-color: purple;
+  color: deeppink;
+  border-color: deeppink;
+}

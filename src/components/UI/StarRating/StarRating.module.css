@@ -1,0 +1,17 @@
+.container {
+  margin: auto;
+}
+
+.starsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 200ms;
+}
